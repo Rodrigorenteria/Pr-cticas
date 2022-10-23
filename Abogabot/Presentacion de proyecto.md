@@ -26,43 +26,43 @@ El cliente solicita una aplicación web para automatizar y agilizar el proceso c
  <br>
  
  ## Diagrama de Flujo
- ![Flow Chart](https://github.com/Rodrigorenteria/Practicas/blob/0a3090ed783d28fb9fd14772e2c9af2662a8ff01/Flowchart%20(1).jpg)
+ ![Flow Chart](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/Flowchart%20(1).jpg)
  
  ## Buyer Persona
   1. Cliente ideal del proyecto, se observa a un CEO de una firma de abogados.
- ![Buyer Persona](Abogabot_Buyer_Persona.jpg)<br>
+ ![Buyer Persona](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/Abogabot_Buyer_Persona.jpg)<br>
  
  ## Público Objetivo
   1. Futuros Clientes del Servicio
- ![Publico Objetivo](Abogabot_Publico_Objetivo.jpg)<br>
+ ![Publico Objetivo](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/Abogabot_Publico_Objetivo.jpg)<br>
  
  ## UX
   1. Experiencia del usuario (prototipo de baja calidad) <br>
    * ### Computadora (Web)<br> 
      * Diseño
-     ![Web Inicio](UX_CPU.png)<br>
+     ![Web Inicio](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/UX_CPU.png)<br>
      * Flujo
-    ![Web Inicio](Flujo_UX_CPU.png)<br>
+    ![Web Inicio](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/Flujo_UX_CPU.png)<br>
    * ### App Celular (Iphone)<br>
      * Diseño 
-     ![Iphone Inicio](UX_Iphone.png)<br>
+     ![Iphone Inicio](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/UX_Iphone.png)<br>
      * Flujo
-     ![Iphone Iniciar Sesion](Flujo_UX_Iphone.png)<br>
+     ![Iphone Iniciar Sesion](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/Flujo_UX_Iphone.png)<br>
     
  
  ## UI
   1. Prototipo de alta calidad<br>
   * ### Computadora (Web)<br>
     * Diseño
-    ![Web Inicio](UI_CPU.png)<br>
+    ![Web Inicio](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/UI_CPU.png)<br>
     * Flujo
-    ![Web Inicio](Flujo_UI_CPU.png)<br>
+    ![Web Inicio](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/Flujo_UI_CPU.png)<br>
     
   * ### App Celular (Iphone)<br>
     * Diseño 
-    ![Iphone Inicio](UI_Iphone.png)<br>
+    ![Iphone Inicio](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/UI_Iphone.png)<br>
     * Flujo
-    ![Iphone Iniciar Sesion](Flujo_UI_Iphone.png)<br>
+    ![Iphone Iniciar Sesion](https://github.com/Rodrigorenteria/Practicas/blob/64eba82f7b778119664482c904a906110a4c304a/Abogabot/Imagenes/Flujo_UI_Iphone.png)<br>
    
   
 
